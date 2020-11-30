@@ -1,0 +1,40 @@
+
+  .mobile-container {
+    max-width: 480px;
+    margin: auto;
+    background-color:#ae835e;
+    height: 500px;
+    color: white;
+    border-radius: 10px;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color:#201d14;
+    position: relative;
+  }
+  
+  
+  
+  .topnav a {
+    float: left;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a.icon {
+    float: right;
+  }
+  
+  .topnav a:hover {
+    background-color:#ae835e;
+    color:#201d14;
+  }
+
+  .friends-img{
+      width: 100%;
+      height: auto;
+      max-width: 200px;
+  }
